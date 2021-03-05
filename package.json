@@ -1,7 +1,7 @@
 {
-  "name": "writeplanshoot",
+  "name": "task",
   "version": "1.0.0",
-  "description": "Write Plan Shoot - Backend",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js -e ejs,js,css,html,jpg,png,scss",
@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "writeplanshoot"
+    "task"
   ],
   "author": "",
   "license": "ISC",

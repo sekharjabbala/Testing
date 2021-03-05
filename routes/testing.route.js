@@ -1,6 +1,5 @@
 var express = require('express');
 const router = express.Router();
-const auth = require("../middlewares/auth")
 const dotenv = require('dotenv');
 dotenv.config();
 const testingcontroller = require('../controllers/testing.controller');
